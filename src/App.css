@@ -1,0 +1,61 @@
+.App {
+  margin-top: 10px;
+  text-align: center;
+ }
+
+ .label-define{
+  display: inline-block; 
+   border: 1px solid rgb(170, 165, 165);
+  width: 7rem;
+  height: 1.5rem;
+  font-size: 12px;
+   padding-top: 0.7rem;
+  background-color: lightgray;
+  }
+
+  .input-task{
+    width: 60%;
+    height: 1.9rem;
+         }
+        
+  .btn-task{
+    background-color: blue;
+    color: white;
+    height: 2.2rem;
+
+  }
+
+ .container{
+   list-style-type: none;
+    width: 60%;
+  height: 5rem;
+  margin: auto;
+  padding: auto;
+
+    }
+
+ .result-task{
+     display: flex;
+   justify-content: space-around;
+   font-size: 20px;
+font-family: 'Gill Sans';
+   margin: auto;
+  padding: auto;
+  height: 2
+  rem;
+
+    }  
+  .del-btn{
+    background-color: red;
+    border-color: red;
+    color: white;
+
+  }
+   
+   .set-btn{
+    background-color: yellow;
+    border-color: yellow;
+    color: black;
+  }
+
+  
